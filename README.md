@@ -19,8 +19,8 @@
 
  1. Instalación e introducción al uso de Software 
     1. Anaconda - Distribción de Python y R para la computación científica
-          * [Cuaderno 1 - Instalación de Anaconda](Cuadernos/Métodos Cuantitativos en Gestión 2020 - Cuaderno 1.ipynb)
-          * [Cuaderno 2 - Uso simple de Python](Cuadernos/Métodos Cuantitativos en Gestión 2020 - Cuaderno 2.ipynb)
+           [Cuaderno 1 - Instalación de Anaconda](Cuadernos/Métodos Cuantitativos en Gestión 2020 - Cuaderno 1.ipynb)
+           [Cuaderno 2 - Uso simple de Python](Cuadernos/Métodos Cuantitativos en Gestión 2020 - Cuaderno 2.ipynb)
     2. Excel y la utilidad de las hojas de cálculo
     3. Geogebra y la matemática interactiva.
     
