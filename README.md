@@ -1,7 +1,7 @@
 # Métodos Cuantitativos en Gestión 1
 *Curso de Métodos cuantitativos en Gestión de la Universidad Externado de Colombia*
 
->> Aquí encontrarán todos los cuadernos y actividades diseñadas para el curso. También habrán algunos vinculos interesantes y algunas indicaciones útiles para el proyecto final.
+> Aquí encontrarán todos los cuadernos y actividades diseñadas para el curso. También habrán algunos vinculos interesantes y algunas indicaciones útiles para el proyecto final.
 
 ## Objetivos del curso
 
