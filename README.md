@@ -28,6 +28,7 @@
 2. Algoritmos
     1. Algoritmos en la vida cotidiana
     2. Excel y la utilidad de las hojas de cálculo
+    
          [Cuaderno 3 - Introducción a algoritmos](Cuadernos/Cuaderno3.ipynb)
     3. Abstracción de un problema y soluciones seminuméricas
     4. Algoritmos numéricos ¿Cómo solucionar una ecuación y verificar que la solcuión es correcta?
