@@ -23,13 +23,14 @@
          [Cuaderno 1 - Instalación de Anaconda](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%201.ipynb)
            
          [Cuaderno 2 - Uso simple de Python](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%202.ipynb)
-    2. Excel y la utilidad de las hojas de cálculo
-    3. Geogebra y la matemática interactiva.
+    
     
 2. Algoritmos
     1. Algoritmos en la vida cotidiana
-    2. Abstracción de un problema y soluciones seminuméricas
-    3. Algoritmos numéricos ¿Cómo solucionar una ecuación y verificar que la solcuión es correcta?
+    2. Excel y la utilidad de las hojas de cálculo
+         [Cuaderno 3 - Introducción a algoritmos](Cuadernos/Cuaderno3.ipynb)
+    3. Abstracción de un problema y soluciones seminuméricas
+    4. Algoritmos numéricos ¿Cómo solucionar una ecuación y verificar que la solcuión es correcta?
     
 3. Ecuaciones de primer grado
     1. Razones y proporciones 
