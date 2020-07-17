@@ -20,9 +20,9 @@
  1. Instalación e introducción al uso de Software 
     1. Anaconda - Distribción de Python y R para la computación científica
     
-         [Cuaderno 1 - Instalación de Anaconda](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%201.ipynb)
+         [Instalación de Anaconda](slides/Instalaci%C3%B3n%20y%20configuraci%C3%B3n%20inicial%20de%20Anaconda.slides.html)
            
-         [Cuaderno 2 - Uso simple de Python](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%202.ipynb)
+         [Uso simple de Python](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%202.ipynb)
     
     
 2. Algoritmos
