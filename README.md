@@ -45,7 +45,7 @@
     4. [Medidas de tendencia central y dispersión]()
     
 
-**BIBLIOGRAFÍA  **
+**BIBLIOGRAFÍA**
 
 *LIBRO GUÍA:*
 
