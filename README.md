@@ -45,8 +45,7 @@
     4. [Medidas de tendencia central y dispersión]()
     
 
-## BIBLIOGRAFÍA
-
+## Bibliografía
 *LIBRO GUÍA:*
 
 Arya, J. y Larner, R., (2002). Matemáticas aplicadas a la administración y a la economía. México: Pearson Educación. 
