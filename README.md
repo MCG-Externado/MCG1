@@ -39,3 +39,22 @@
     
 4. Introducción a estadística descriptiva
 
+    1. [Tipos de variables]()
+    2. [Tablas de frecuencias]()
+    3. [Gráficos]()
+    4. [Medidas de tendencia central y dispersión]()
+    
+
+**BIBLIOGRAFÍA  **
+
+*LIBRO GUÍA:*
+
+Arya, J. y Larner, R., (2002). Matemáticas aplicadas a la administración y a la economía. México: Pearson Educación. 
+
+*BIBLIOGRAFÍA COMPLEMENTARIA* 
+
+* Haeussler, E. y Paul, R., (2008). Matemáticas para Administración y Economía. México: Pearson Educación.  
+* Stewart, J. (2012). Cálculo Trascendente Temprano. (7ª. Ed.) México: Cengage Learning. 
+* Stewart, J; Redlin, L & Watson, S (2012) Precálculo: Matemáticas para el cálculo. (6ª. Ed) México: Cengage Learning 
+
+
