@@ -20,7 +20,7 @@
  1. Instalación e introducción al uso de Software 
  
     1. [Instalación de Anaconda](slides/Instalaci%C3%B3n%20y%20configuraci%C3%B3n%20inicial%20de%20Anaconda.slides.html)
-    2. [Uso simple de Python](/Cuadernos/Introducci%C3%B3n%20al%20lenguaje%20Python.ipynb)
+    2. [Uso simple de Python](https://github.com/MCG-Externado/MateBasicas-MCG1/blob/master/Cuadernos/Introducci%C3%B3n%20al%20lenguaje%20Python.ipynb)
     3. [Introducción a Algoritmos](slides/Algoritmos.html )
     
 2. Aplicación de funciones e Introducción a la modelización 
