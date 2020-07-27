@@ -21,7 +21,7 @@
  
     1. [Instalación de Anaconda](slides/Instalaci%C3%B3n%20y%20configuraci%C3%B3n%20inicial%20de%20Anaconda.slides.html)
     2. [Uso simple de Python](Cuadernos/M%C3%A9todos%20Cuantitativos%20en%20Gesti%C3%B3n%202020%20-%20Cuaderno%202.ipynb)
-    3. [Introducción a Algoritmos](MateBasicas-MCG1/slides/Algoritmos.html )
+    3. [Introducción a Algoritmos](slides/Algoritmos.html )
     
 2. Aplicación de funciones e Introducción a la modelización 
   
