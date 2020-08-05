@@ -25,7 +25,7 @@
     
 2. Aplicación de funciones e Introducción a la modelización 
   
-    1. [¿Qué es una función?]()
+    1. [¿Qué es una función?](slides/Introducción a funciones.html)
     2. [Funciones lineales]()
     3. [Funciones cuadráticas]()
     4. [Funciones exponenciales y logarítmicas]()
