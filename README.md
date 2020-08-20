@@ -27,7 +27,7 @@
   
     1. [¿Qué es una función?](slides/Introducción a funciones.html)
     2. [Funciones lineales]()
-    3. [Funciones cuadráticas]()
+    3. [Funciones cuadráticas](https://github.com/MCG-Externado/MateBasicas-MCG1/blob/master/Cuadernos/Funci%C3%B3n%20Cuadr%C3%A1tica.ipynb)
     4. [Funciones exponenciales y logarítmicas]()
 
 3. Optimización de funciones
