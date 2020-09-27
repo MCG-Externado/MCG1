@@ -33,9 +33,9 @@
 3. Optimización de funciones
 
     1. [Límites]()
-    2. [Razón de cambio]()
-    3. [Derivadas y optimización]()
-    4. [Visualización de datos y toma de decisiones]()
+    2. [Razón de cambio](https://mcg-externado.github.io/Matematicas2UEC/slides/rdc.slides.html#/)
+    3. [Derivadas](https://mcg-externado.github.io/Matematicas2UEC/slides/derivadas.slides.html#/)
+    4. [Optimización](https://mcg-externado.github.io/Matematicas2UEC/slides/optimizacion.slides.html#/)
     
 4. Introducción a estadística descriptiva
 
